@@ -19,7 +19,7 @@ Note : Tool is Made of Educational Purposes only.
 ### Installation for linux
 Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
 ```bash
-git clone https://github.com/caronero/Z-ransom.git && cd Z-ransom && sudo bash install.sh
+git clone https://github.com/trhacknon/Z-ransom.git && cd Z-ransom && sudo bash install.sh
 ```
 
 ### Installation for termux 
@@ -30,7 +30,7 @@ pkg update && pkg upgrade -y
 pkg install python3 -y
 ```
 ```bash
-git clone https://github.com/caronero/Z-ransom
+git clone https://github.com/trhacknon/Z-ransom
 ```
 ```bash
 cd xransom
